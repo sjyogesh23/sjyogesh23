@@ -84,19 +84,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sjyogesh23/count.svg?"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=2" alt="Spotify recently played"  />
-</div>
-
 ###

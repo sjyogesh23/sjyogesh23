@@ -1,6 +1,12 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Yogesh SJ and I'm a Developer / Designer, from Chennai, India</h2>
+<h2 align="center">Hi 👋! My name is Yogesh SJ, from India</h2>
+<div>
+Innovative and driven AI/ML engineer with a strong foundation in deep learning and natural language processing,
+complemented by expertise in web and app development and design. Seeking to leverage my technical skills and
+creative approach to contribute to impactful projects, driving forward-thinking solutions and user-centered designs
+in a collaborative environment.
+</div>
 
 ###
 
@@ -67,17 +73,22 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="left">  
+   <a href="https://yogeshsj.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=React&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/yogeshsj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/Yogesh_SJ23" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <a href="sjyogesh23@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.instagram.com/s.j.yogesh_23" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
 </div>
 
 ###

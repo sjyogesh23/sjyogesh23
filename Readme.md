@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Yogesh SJ, from India</h2>
+<h2 align="center">Hi 👋! My name is Yogesh SJ, from Paris</h2>
 <div>
 Innovative and driven AI/ML engineer with a strong foundation in deep learning and natural language processing,
 complemented by expertise in web and app development and design. Seeking to leverage my technical skills and

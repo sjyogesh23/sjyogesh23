@@ -16,7 +16,7 @@ in a collaborative environment.
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/YZPnGuPeZv8AAAAC/coding.gif"  />
+<!--<img align="right" height="150" src="https://media.tenor.com/YZPnGuPeZv8AAAAC/coding.gif"  />-->
 
 ###
 
